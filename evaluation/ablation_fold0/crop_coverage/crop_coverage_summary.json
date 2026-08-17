@@ -1,0 +1,15 @@
+{
+  "n_cases_total": 131,
+  "n_gt_empty_excluded": 0,
+  "n_empty_prediction_fallback_100pct": 9,
+  "n_zero_dsc_total": 13,
+  "n_zero_dsc_mislocated_real_loss": 4,
+  "n_evaluated_for_coverage": 131,
+  "coverage_pct_mean": 93.44030534351145,
+  "coverage_pct_std": 21.09769662688798,
+  "coverage_pct_median": 100.0,
+  "coverage_pct_min": 0.0,
+  "coverage_pct_max": 100.0,
+  "n_cases_100pct_coverage": 100,
+  "margin_voxels": 15
+}
