@@ -129,7 +129,7 @@ Ablation on the ATLAS v2.0 cohort (524 train / 131 val, fold 0):
 | + Metadata-Informed Bottleneck | 0.620 | 0.659     | 16.72     | 5.01      |
 | + MIB + ROI crop          | **0.714** | **0.728** | **8.82**  | **1.88**  |
 
-5-fold cross-validation on the full ISLES'26 training release (1453 cases; pooled out-of-fold
+5-fold cross-validation on the full ISLES'26 training release  ATLAS v3.0 (1453 cases; pooled out-of-fold
 predictions):
 
 | Stage              | n    | DSC       | NSD@1mm   | HD95 (mm) | ASSD (mm) |
